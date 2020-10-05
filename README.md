@@ -2,7 +2,7 @@
 
 En este repositorio sera guardado todo el material referente a esta clase. 
 
-** Martes 6 de octubre **
+## Martes 6 de octubre 
 
 ### Antes de empezar con LENSTRONOMY
 
