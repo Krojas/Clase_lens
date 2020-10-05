@@ -15,6 +15,6 @@ En este repositorio sera guardado todo el material referente a esta clase.
 
 Material:
 
-![Jupyter Notebook ](/Clase1/Clase1.ipynb)
-![Castle catalog ](/Clase1/castle1.csv)
-![Images fits](/fits_lentes_F160W/)
+- [Jupyter Notebook ](/Clase1/Clase1.ipynb)
+- [Castle catalog ](/Clase1/castle1.csv)
+- [Images fits](/fits_lentes_F160W/)
