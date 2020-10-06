@@ -17,4 +17,5 @@ Material:
 
 - [Jupyter Notebook ](/Clase1/Clase1.ipynb)
 - [Castle catalog ](/Clase1/castle1.csv)
-- [Images fits](/fits_lentes_F160W/)
+- [Images fits ](/fits_lentes_F160W/)
+- [LENS.yml file](/Clase1/LENS.yml)
