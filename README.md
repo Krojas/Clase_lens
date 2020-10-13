@@ -50,4 +50,4 @@ Material:
 6. Utilizar multiples modelos para ajustar un sistema: SPEP + shear
 7. Configurar un modelo usando multiplane lensing.
 
-
+[Jupyter Notebook ](/clase2/Clase3.ipynb)
