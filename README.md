@@ -63,6 +63,11 @@ Material:
 - [Jupyter Notebook ](/clase4/clase3_soluciones.ipynb)
 - [clase zoom](https://drive.google.com/file/d/1aZhnI4uW-z7Iwp9OGKb5WMuwXXDW4MLC/view?usp=sharing)
 
+## Martes 20 de octubre
 
+1. Conocer el modulo LightModel para describir perfiles luminosos de las lentes y fuentes
+2. Conocer el modulo PointSource
+3. Conocer el modulo Data para definir los datos a simular/ajustar
+4. Simular la imagen de un sistema lente
 
 
