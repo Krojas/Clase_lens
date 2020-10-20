@@ -70,4 +70,5 @@ Material:
 3. Conocer el modulo Data para definir los datos a simular/ajustar
 4. Simular la imagen de un sistema lente
 
+- [Jupyter Notebook ](/Clase5/clase5.ipynb)
 
