@@ -72,3 +72,11 @@ Material:
 
 - [Jupyter Notebook ](/Clase5/clase5.ipynb)
 
+## Jueves 22 de octubre
+
+1. Simular los sistemas de los ejercicios anteriores
+2. Salvar esta simulacion como una imagen fits
+
+- [Jupyter Notebook ](/Clase6/clase6.ipynb)
+- [clase zoom](https://drive.google.com/file/d/11lMhBvRpMz4XWSv_fA63u36p3s3zI0VX/view?usp=sharing)
+
