@@ -80,3 +80,11 @@ Material:
 - [Jupyter Notebook ](/Clase6/clase6.ipynb)
 - [clase zoom](https://drive.google.com/file/d/11lMhBvRpMz4XWSv_fA63u36p3s3zI0VX/view?usp=sharing)
 
+## Martes 27 de octubre
+
+1. Leer una imagen fits
+2. Configurar los modulos de datos, lensmodel, lightmodel (lente y fuente)
+3. Hacer una optimizacion utilizando PSO
+4. Optimizar utilizando un PSO y MCMC
+
+- [Jupyter Notebook ](/Clase7/clase7.ipynb)
