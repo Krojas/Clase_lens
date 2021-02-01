@@ -36,7 +36,6 @@ Material:
 
 - [Jupyter Notebook ](/clase2/Clase2.ipynb)
 - [pdf](/clase2/clase2.pdf)
-- [clase zoom](https://drive.google.com/file/d/1oSrWr7yrUXf4fotnfiGYwYXwDpdIMnVT/view?usp=sharing)
 
 ## Martes 13 de octubre 
 
@@ -61,7 +60,6 @@ Material:
 Material:
 
 - [Jupyter Notebook ](/clase4/clase3_soluciones.ipynb)
-- [clase zoom](https://drive.google.com/file/d/1aZhnI4uW-z7Iwp9OGKb5WMuwXXDW4MLC/view?usp=sharing)
 
 ## Martes 20 de octubre
 
@@ -78,7 +76,6 @@ Material:
 2. Salvar esta simulacion como una imagen fits
 
 - [Jupyter Notebook ](/Clase6/clase6.ipynb)
-- [clase zoom](https://drive.google.com/file/d/11lMhBvRpMz4XWSv_fA63u36p3s3zI0VX/view?usp=sharing)
 
 ## Martes 27 de octubre
 
